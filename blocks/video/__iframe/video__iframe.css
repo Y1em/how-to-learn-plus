@@ -1,14 +1,11 @@
-li.video__iframe {
+.video__iframe {
  margin-right: 20px;
+ width: 515px;
+ height: 316px;
+ border: 0;
 }
 
-li.video__iframe:last-of-type {
+.video__iframe:last-of-type {
   margin-right: 0;
- }
-
-iframe.video__iframe {
-  width: 515px;
-  height: 316px;
-  border: 0;
  }
 
